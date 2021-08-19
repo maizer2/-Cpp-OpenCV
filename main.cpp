@@ -1,13 +1,14 @@
 #include <iostream>
 
 void arr_parc() {
-    int arr[2][3] = {{1, 2, 3}, {4, 5, 6}};
-    int (*parr)[3] = arr;
+    int arr1[3][2] = {{1, 2}, {3, 4}, {5, 6}};
+    int arr2[3] = {1, 2, 3};
+    int (*parr1)[2];
+    int *parr2;
 
-    printf("%p\n", arr);
-    printf("%d\n", sizeof(arr));
-    printf("%d\n", sizeof(arr[1]));
-
+    parr1 = arr1;
+    //arr2 == &arr2[0]
+    parr2 = arr2;
 }
 
 void basci_prac() {
