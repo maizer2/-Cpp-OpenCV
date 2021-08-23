@@ -78,19 +78,49 @@ CMakeFiles/_Cpp_OpenCV.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/_Cpp_OpenCV.dir/main.cpp.s"
 	C:\17AD8~1.DEV\1F1AC~1.LAN\189BA~1.C\4045A~1.COM\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\main.cpp" -o CMakeFiles\_Cpp_OpenCV.dir\main.cpp.s
 
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj: CMakeFiles/_Cpp_OpenCV.dir/flags.make
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj: ../prac/C_13_4/student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj"
+	C:\17AD8~1.DEV\1F1AC~1.LAN\189BA~1.C\4045A~1.COM\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\_Cpp_OpenCV.dir\prac\C_13_4\student.cpp.obj -c "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\prac\C_13_4\student.cpp"
+
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.i"
+	C:\17AD8~1.DEV\1F1AC~1.LAN\189BA~1.C\4045A~1.COM\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\prac\C_13_4\student.cpp" > CMakeFiles\_Cpp_OpenCV.dir\prac\C_13_4\student.cpp.i
+
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.s"
+	C:\17AD8~1.DEV\1F1AC~1.LAN\189BA~1.C\4045A~1.COM\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\prac\C_13_4\student.cpp" -o CMakeFiles\_Cpp_OpenCV.dir\prac\C_13_4\student.cpp.s
+
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj: CMakeFiles/_Cpp_OpenCV.dir/flags.make
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj: ../prac/C_13_4/sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj"
+	C:\17AD8~1.DEV\1F1AC~1.LAN\189BA~1.C\4045A~1.COM\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\_Cpp_OpenCV.dir\prac\C_13_4\sort.cpp.obj -c "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\prac\C_13_4\sort.cpp"
+
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.i"
+	C:\17AD8~1.DEV\1F1AC~1.LAN\189BA~1.C\4045A~1.COM\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\prac\C_13_4\sort.cpp" > CMakeFiles\_Cpp_OpenCV.dir\prac\C_13_4\sort.cpp.i
+
+CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.s"
+	C:\17AD8~1.DEV\1F1AC~1.LAN\189BA~1.C\4045A~1.COM\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\prac\C_13_4\sort.cpp" -o CMakeFiles\_Cpp_OpenCV.dir\prac\C_13_4\sort.cpp.s
+
 # Object files for target _Cpp_OpenCV
 _Cpp_OpenCV_OBJECTS = \
-"CMakeFiles/_Cpp_OpenCV.dir/main.cpp.obj"
+"CMakeFiles/_Cpp_OpenCV.dir/main.cpp.obj" \
+"CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj" \
+"CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj"
 
 # External object files for target _Cpp_OpenCV
 _Cpp_OpenCV_EXTERNAL_OBJECTS =
 
 _Cpp_OpenCV.exe: CMakeFiles/_Cpp_OpenCV.dir/main.cpp.obj
+_Cpp_OpenCV.exe: CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj
+_Cpp_OpenCV.exe: CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj
 _Cpp_OpenCV.exe: CMakeFiles/_Cpp_OpenCV.dir/build.make
 _Cpp_OpenCV.exe: CMakeFiles/_Cpp_OpenCV.dir/linklibs.rsp
 _Cpp_OpenCV.exe: CMakeFiles/_Cpp_OpenCV.dir/objects1.rsp
 _Cpp_OpenCV.exe: CMakeFiles/_Cpp_OpenCV.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable _Cpp_OpenCV.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable _Cpp_OpenCV.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\_Cpp_OpenCV.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

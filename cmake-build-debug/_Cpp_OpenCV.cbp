@@ -83,6 +83,18 @@
 		<Unit filename="C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/main.cpp">
 			<Option target="_Cpp_OpenCV"/>
 		</Unit>
+		<Unit filename="C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/prac/C_13_4/sort.cpp">
+			<Option target="_Cpp_OpenCV"/>
+		</Unit>
+		<Unit filename="C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/prac/C_13_4/sort.h">
+			<Option target="_Cpp_OpenCV"/>
+		</Unit>
+		<Unit filename="C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/prac/C_13_4/student.cpp">
+			<Option target="_Cpp_OpenCV"/>
+		</Unit>
+		<Unit filename="C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/prac/C_13_4/student.h">
+			<Option target="_Cpp_OpenCV"/>
+		</Unit>
 		<Unit filename="C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

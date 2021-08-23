@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/_Cpp_OpenCV.dir/main.cpp.obj"
+  "CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj"
+  "CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj"
   "_Cpp_OpenCV.exe"
   "_Cpp_OpenCV.exe.manifest"
   "_Cpp_OpenCV.pdb"

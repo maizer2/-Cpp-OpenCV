@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/main.cpp" "C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/cmake-build-debug/CMakeFiles/_Cpp_OpenCV.dir/main.cpp.obj"
+  "C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/prac/C_13_4/sort.cpp" "C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/cmake-build-debug/CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj"
+  "C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/prac/C_13_4/student.cpp" "C:/Users/jhw39/OneDrive - dongseo.ac.kr/6. GItHub/2. C++/-Cpp-OpenCV/cmake-build-debug/CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

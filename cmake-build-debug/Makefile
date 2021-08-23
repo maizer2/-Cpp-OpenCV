@@ -152,6 +152,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+prac/C_13_4/sort.obj: prac/C_13_4/sort.cpp.obj
+.PHONY : prac/C_13_4/sort.obj
+
+# target to build an object file
+prac/C_13_4/sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.obj
+.PHONY : prac/C_13_4/sort.cpp.obj
+
+prac/C_13_4/sort.i: prac/C_13_4/sort.cpp.i
+.PHONY : prac/C_13_4/sort.i
+
+# target to preprocess a source file
+prac/C_13_4/sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.i
+.PHONY : prac/C_13_4/sort.cpp.i
+
+prac/C_13_4/sort.s: prac/C_13_4/sort.cpp.s
+.PHONY : prac/C_13_4/sort.s
+
+# target to generate assembly for a file
+prac/C_13_4/sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/sort.cpp.s
+.PHONY : prac/C_13_4/sort.cpp.s
+
+prac/C_13_4/student.obj: prac/C_13_4/student.cpp.obj
+.PHONY : prac/C_13_4/student.obj
+
+# target to build an object file
+prac/C_13_4/student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.obj
+.PHONY : prac/C_13_4/student.cpp.obj
+
+prac/C_13_4/student.i: prac/C_13_4/student.cpp.i
+.PHONY : prac/C_13_4/student.i
+
+# target to preprocess a source file
+prac/C_13_4/student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.i
+.PHONY : prac/C_13_4/student.cpp.i
+
+prac/C_13_4/student.s: prac/C_13_4/student.cpp.s
+.PHONY : prac/C_13_4/student.s
+
+# target to generate assembly for a file
+prac/C_13_4/student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/prac/C_13_4/student.cpp.s
+.PHONY : prac/C_13_4/student.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -164,6 +212,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... prac/C_13_4/sort.obj
+	@echo ... prac/C_13_4/sort.i
+	@echo ... prac/C_13_4/sort.s
+	@echo ... prac/C_13_4/student.obj
+	@echo ... prac/C_13_4/student.i
+	@echo ... prac/C_13_4/student.s
 .PHONY : help
 
 

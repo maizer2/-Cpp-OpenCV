@@ -80,12 +80,12 @@ clean: CMakeFiles/_Cpp_OpenCV.dir/clean
 CMakeFiles/_Cpp_OpenCV.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\_Cpp_OpenCV.dir\build.make CMakeFiles/_Cpp_OpenCV.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target _Cpp_OpenCV"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target _Cpp_OpenCV"
 .PHONY : CMakeFiles/_Cpp_OpenCV.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_Cpp_OpenCV.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/_Cpp_OpenCV.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\jhw39\OneDrive - dongseo.ac.kr\6. GItHub\2. C++\-Cpp-OpenCV\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/_Cpp_OpenCV.dir/rule
