@@ -1,3 +1,0 @@
-D:/4. Github/2. C++/-Cpp-OpenCV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/4. Github/2. C++/-Cpp-OpenCV/cmake-build-debug/CMakeFiles/_Cpp_OpenCV.dir
-D:/4. Github/2. C++/-Cpp-OpenCV/cmake-build-debug/CMakeFiles/edit_cache.dir

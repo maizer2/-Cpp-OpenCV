@@ -1,4 +1,0 @@
-ToolSet: w64 6.0 (local)@C:\1. Develope\1. Language\1. C\4. Compiler\mingw64
-Options: 
-
-Options:
