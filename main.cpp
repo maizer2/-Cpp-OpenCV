@@ -9,7 +9,7 @@ int main() {
 
 	if (img.empty()) {
 		std::cerr << "Image load failed! " << std::endl;
-		return -1;
+		return -1;
 	}
 
 	cv::namedWindow("lenna");
